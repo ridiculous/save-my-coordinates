@@ -1,0 +1,3 @@
+class Kula < Region
+
+end
