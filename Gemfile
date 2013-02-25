@@ -8,7 +8,8 @@ gem 'rake'
 
 gem 'rails-api'
 
-gem 'sqlite3'
+gem 'pg'
+gem 'thin'
 
 
 # To use ActiveModel has_secure_password
