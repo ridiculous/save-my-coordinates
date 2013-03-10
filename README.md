@@ -1,4 +1,4 @@
-Maui Bus Routes
+Save my coordinates
 ===============
 
-A different way to view maui bus data, starting with routes and times.
+A simple app for saving my coordinates whever I might be. Planned on using this in conjunction with the maui-bus app
